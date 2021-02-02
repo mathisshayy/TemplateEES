@@ -15,6 +15,7 @@
   ## Demo and Installation
   [Live Demo](https://drive.google.com/file/d/1FKsrgVmxI0FhUw7oNyHabhbezeHbH7XG/view?usp=sharing)
   
+  ![Alt text](Assets/screenshot.png "Live")
   Fork files, download to local, npm install node modules
   ## Technologies
   Node, Javascript, Jest
