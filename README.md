@@ -17,7 +17,7 @@
   
   Fork files, download to local, npm install node modules
   ## Technologies
-  Node, Javascript, Inquirer
+  Node, Javascript, Jest
   ## Contribution
   
   ## License
