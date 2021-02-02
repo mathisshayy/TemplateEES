@@ -17,6 +17,8 @@
   
   ![Alt text](Assets/screenshot.png "Live")
   Fork files, download to local, npm install node modules
+  ![Alt text](Assets/screenshot2.png "Example")
+  
   ## Technologies
   Node, Javascript, Jest
   ## Contribution
