@@ -13,7 +13,7 @@
   
   4. [License](#License)
   ## Demo and Installation
-  [Live Demo] (https://drive.google.com/file/d/1FKsrgVmxI0FhUw7oNyHabhbezeHbH7XG/view?usp=sharing))
+  [Live Demo](https://drive.google.com/file/d/1FKsrgVmxI0FhUw7oNyHabhbezeHbH7XG/view?usp=sharing)
   
   Fork files, download to local, npm install node modules
   ## Technologies
