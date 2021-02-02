@@ -1,0 +1,24 @@
+{
+  "name": "template-employee-engine-summaary",
+  "version": "1.0.0",
+  "description": "OOP and testing for week 10 homework",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathisshayy/TemplateEES.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/mathisshayy/TemplateEES.git#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "jest": "^26.6.3"
+  }
+}
